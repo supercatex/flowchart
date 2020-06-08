@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-08T05:45:09.432Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="W8M7Mz7BDzvNphPDMtg9" version="13.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-08T05:52:32.138Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="sW69CnY23do1UMYv0te3" version="13.0.8" type="github" pages="3">
   <diagram id="0lKBUqZswitYHXeArTOi" name="Hardware Architecture">
     <mxGraphModel dx="1037" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -420,6 +420,12 @@
         </mxCell>
         <mxCell id="CeQB6gZG6DhnOXYB0yL5-35" value="/vision/image" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R_jyhnalZJhI18wvGcN_-1">
           <mxGeometry x="1120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgNIeUyUh0It2GO96-vU-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontFamily=Courier New;" edge="1" parent="R_jyhnalZJhI18wvGcN_-1" source="vgNIeUyUh0It2GO96-vU-0" target="R_jyhnalZJhI18wvGcN_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgNIeUyUh0It2GO96-vU-0" value="/voice/use" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="R_jyhnalZJhI18wvGcN_-1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
