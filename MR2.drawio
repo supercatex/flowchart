@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T15:54:44.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="pyq54y0EWNlnBZ7M9NnP" version="13.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-20T16:05:53.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="DToJUUOt5H_DSkWrleV9" version="13.3.0" type="github" pages="3">
   <diagram id="0lKBUqZswitYHXeArTOi" name="Hardware Architecture">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
         <mxCell id="rVgiSwCZ0lsiefRl_gwQ-40" value="Voice Control &amp;amp; Conversation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rVgiSwCZ0lsiefRl_gwQ-1">
           <mxGeometry x="280" y="110" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVgiSwCZ0lsiefRl_gwQ-41" value="SLAM / Navigation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rVgiSwCZ0lsiefRl_gwQ-1">
+        <mxCell id="rVgiSwCZ0lsiefRl_gwQ-41" value="SLAM &amp;amp; Navigation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rVgiSwCZ0lsiefRl_gwQ-1">
           <mxGeometry x="520" y="110" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVgiSwCZ0lsiefRl_gwQ-42" value="Forward &amp;amp; Inverse Kinematics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rVgiSwCZ0lsiefRl_gwQ-1">
