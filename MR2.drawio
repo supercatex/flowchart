@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T15:50:14.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="BxRB62JIFmlaOo9KbkuG" version="13.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-20T15:51:13.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="D7XQhs9ApgyRy0xBM0vj" version="13.3.0" type="github" pages="3">
   <diagram id="0lKBUqZswitYHXeArTOi" name="Hardware Architecture">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="rVgiSwCZ0lsiefRl_gwQ-6" value="XM430-W210-T&lt;br&gt;( LEFT MOTOR )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rVgiSwCZ0lsiefRl_gwQ-1">
           <mxGeometry x="800" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rVgiSwCZ0lsiefRl_gwQ-72" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="rVgiSwCZ0lsiefRl_gwQ-1" target="rVgiSwCZ0lsiefRl_gwQ-3">
+        <mxCell id="rVgiSwCZ0lsiefRl_gwQ-72" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="rVgiSwCZ0lsiefRl_gwQ-1" source="xJuq7p3SQfnIe72RwTIr-0" target="rVgiSwCZ0lsiefRl_gwQ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="400" as="sourcePoint" />
           </mxGeometry>
