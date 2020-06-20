@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T16:23:41.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="INErIAxrT1-YbhuYWUtm" version="13.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-20T16:25:09.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="a-ckvWqG9I-M3FaFKONK" version="13.3.0" type="github" pages="4">
   <diagram id="0lKBUqZswitYHXeArTOi" name="Hardware Architecture">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -349,11 +349,11 @@
         <mxCell id="4MqVC4mQ5A_rE3x7QcLo-24" value="Speaker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
           <mxGeometry x="400" y="350" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-26" value="&lt;span style=&quot;font-size: 12.8px; text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;RC-100B&lt;br&gt;( Bluetooth Control )&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
-          <mxGeometry x="1001" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-26" value="&lt;span style=&quot;font-size: 12.8px ; text-align: left&quot;&gt;&lt;span&gt;Bluetooth &amp;amp; WiFi Module&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1000" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MqVC4mQ5A_rE3x7QcLo-29" value="POWER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
-          <mxGeometry x="1121" y="410" width="240" height="60" as="geometry" />
+          <mxGeometry x="1120" y="410" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MqVC4mQ5A_rE3x7QcLo-30" value="Computer VIsion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
           <mxGeometry x="40" y="110" width="240" height="60" as="geometry" />
