@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T16:14:37.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="io2YMn_D8M-SSgAB-H7b" version="13.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-20T16:23:41.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="INErIAxrT1-YbhuYWUtm" version="13.3.0" type="github" pages="4">
   <diagram id="0lKBUqZswitYHXeArTOi" name="Hardware Architecture">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -316,6 +316,107 @@
         </mxCell>
         <mxCell id="-L3eDqi6iuGMZ0xOpxzB-0" value="WiFi Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="rVgiSwCZ0lsiefRl_gwQ-1">
           <mxGeometry x="1130" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Common System Architecture" id="4rfqEiaTp9iO9pqJJfd0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-0" />
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-1" parent="4MqVC4mQ5A_rE3x7QcLo-0" />
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-2" value="Robot Operation System ( ROS )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="40" y="230" width="1320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-3" value="Master Computer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="40" y="290" width="1320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-6" value="Single Board Computer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="640" y="350" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-8" value="Manipulator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="880" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-15" value="Camera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="40" y="350" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-19" value="Chassis Motors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="760" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-21" value="Microphone" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="280" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-24" value="Speaker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="400" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-26" value="&lt;span style=&quot;font-size: 12.8px; text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;RC-100B&lt;br&gt;( Bluetooth Control )&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1001" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-29" value="POWER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1121" y="410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-30" value="Computer VIsion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="40" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-31" value="Voice Control &amp;amp; Conversation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="280" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-32" value="SLAM &amp;amp; Navigation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="520" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-33" value="Forward &amp;amp; Inverse Kinematics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="880" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-34" value="Manual Control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1000" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-35" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="40" y="50" width="1320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-37" value="Monitor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1240" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-38" value="GUI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1240" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-53" value="IMU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="640" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-54" value="Object Detection" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-55" value="Object Recognition" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-56" value="Speech To Text" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-57" value="Text To Speech" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-58" value="Gmapping /&amp;nbsp;Cartographer" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-59" value="AMCL" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="640" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-60" value="PID &amp;amp; Smooth Control" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-61" value="Robot Motion Model" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="760" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-62" value="Bluetooth" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1000" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-63" value="System Design &amp;amp; Animation Effect" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-64" value="WiFi" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="1120" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MqVC4mQ5A_rE3x7QcLo-65" value="&lt;span&gt;Distance Sensor&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4MqVC4mQ5A_rE3x7QcLo-1">
+          <mxGeometry x="520" y="350" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
