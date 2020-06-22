@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T04:00:35.592Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="REx9x4GM8VZrP-ZIBVHr" version="13.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-22T04:02:56.985Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="t7DMlQN60Rc-GwLTXEdM" version="13.3.0" type="github" pages="5">
   <diagram name="Common System Architecture" id="4rfqEiaTp9iO9pqJJfd0">
     <mxGraphModel dx="1422" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -804,7 +804,7 @@
         <mxCell id="qZjOzz3EnhjmPaWLeE5M-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1dFLjgrScVCehj6pwpxJ-1" source="qZjOzz3EnhjmPaWLeE5M-5" target="qZjOzz3EnhjmPaWLeE5M-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qZjOzz3EnhjmPaWLeE5M-5" value="Conversation Dict&lt;br&gt;Command Dict" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;" vertex="1" parent="1dFLjgrScVCehj6pwpxJ-1">
+        <mxCell id="qZjOzz3EnhjmPaWLeE5M-5" value="Conversation and&lt;br&gt;Command Dict" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;" vertex="1" parent="1dFLjgrScVCehj6pwpxJ-1">
           <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qZjOzz3EnhjmPaWLeE5M-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1dFLjgrScVCehj6pwpxJ-1" source="qZjOzz3EnhjmPaWLeE5M-8">
