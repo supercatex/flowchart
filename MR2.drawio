@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-27T02:01:13.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="RWjZZ5rdmq80z5Goahhf" version="13.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-06-27T02:01:55.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="O5ORkmlScEbvzi67Kk9E" version="13.3.5" type="github" pages="6">
   <diagram name="Common System Architecture" id="4rfqEiaTp9iO9pqJJfd0">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -885,10 +885,10 @@
           <mxGeometry x="400" y="166" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-14" value="2. Send RGB Image" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
-          <mxGeometry x="310" y="220" width="110" height="20" as="geometry" />
+          <mxGeometry x="314" y="212" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-19" value="3. Return Bounding Boxes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
-          <mxGeometry x="180" y="260" width="150" height="20" as="geometry" />
+          <mxGeometry x="184" y="260" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-24" value="4. Send Follow Point" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
           <mxGeometry x="400" y="130" width="120" height="20" as="geometry" />
@@ -903,7 +903,7 @@
           <mxGeometry x="160" y="420" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-32" value="8. Output PD Control" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
-          <mxGeometry x="400" y="460" width="130" height="20" as="geometry" />
+          <mxGeometry x="404" y="459" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-35" value="Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
           <mxGeometry y="80" width="120" height="160" as="geometry" />
