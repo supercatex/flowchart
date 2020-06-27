@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-27T01:50:35.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="39rL-MriF3Wcv46UBYHh" version="13.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-06-27T02:01:13.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="RWjZZ5rdmq80z5Goahhf" version="13.3.5" type="github" pages="6">
   <diagram name="Common System Architecture" id="4rfqEiaTp9iO9pqJJfd0">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -882,7 +882,7 @@
           <mxGeometry x="600" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-12" value="1. Get RGB Image" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
-          <mxGeometry x="400" y="160" width="110" height="20" as="geometry" />
+          <mxGeometry x="400" y="166" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7qQtWTlr1oAg3pK5KOnv-14" value="2. Send RGB Image" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="7qQtWTlr1oAg3pK5KOnv-1">
           <mxGeometry x="310" y="220" width="110" height="20" as="geometry" />
